@@ -40,4 +40,4 @@ My approach combines robust infrastructure administration with Business Intellig
 Beyond development, I have experience as a **University Professor** and **Associate Researcher**, which has provided me with a strong foundation in methodology and continuous learning.
 
 ---
-[🔗 Contact With me at Linkedin](https://www.linkedin.com/in/antonio-dejesus-madrigal-chavarin)
+[🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/antonio-dejesus-madrigal-chavarin)
