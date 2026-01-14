@@ -1,4 +1,4 @@
-### Hola, soy Antonio Madrigal 👋
+### Hola, soy Antonio Madrigal
 
 Soy un **Ingeniero en Sistemas** con más de 12 años de experiencia, especializado en el diseño de arquitecturas eficientes y la optimización operativa mediante tecnología.
 
