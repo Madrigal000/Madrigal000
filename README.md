@@ -11,8 +11,8 @@ Mi enfoque combina la administración de infraestructura robusta con la intelige
 * **Gestión:** Liderazgo de operaciones tecnológicas y automatización de procesos comerciales.
 
 #### Experiencia Destacada
-* **Mexlife Realtors (Gerente de Operaciones):** Lidero la transformación digital mediante la automatización de CRM y el desarrollo de herramientas analíticas personalizadas.
-* **Velas Resorts (CRM Manager):** Diseñé la infraestructura de datos unificada, integrando múltiples fuentes (PMS, Web, Chats) para mejorar la inteligencia de cliente (Customer Journey).
+* **Mexlife Realtors (IT Leader):** Lidero la transformación digital mediante la automatización de CRM y el desarrollo de herramientas analíticas personalizadas.
+* **Velas Resorts (CRM Manager / Customer Journey Scientist):** Diseñé la infraestructura de datos unificada, integrando múltiples fuentes (PMS, Web, Chats) para mejorar la inteligencia de cliente (Customer Journey).
 
 #### Background
 Además del desarrollo, cuento con experiencia como **Docente Universitario** e **Investigador Asociado**, lo que me ha dado una base sólida en metodología y aprendizaje continuo.
